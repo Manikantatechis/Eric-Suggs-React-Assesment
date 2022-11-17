@@ -2,7 +2,7 @@
 React
 
 ## How to Install
-#npm install
-#npm start
-# Open http://127.0.0.1:3000/
+#### npm install
+#### npm start
+#### Open http://127.0.0.1:3000/
 ```
